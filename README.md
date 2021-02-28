@@ -1,15 +1,11 @@
 
 ### GitHub forks
 [![GitHub forks](https://img.shields.io/github/forks/ebubekirdgn/StrapDown.js.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/ebubekirdgn/StrapDown.js/network/)
-```markdown
-[![GitHub forks](https://img.shields.io/github/forks/ebubekirdgn/StrapDown.js.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/ebubekirdgn/StrapDown.js/network/)
-```
+
 
 ### GitHub stars
 [![GitHub stars](https://img.shields.io/github/stars/ebubekirdgn/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/ebubekirdgn/StrapDown.js/stargazers/)
-```markdown
-[![GitHub stars](https://img.shields.io/github/stars/ebubekirdgn/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/ebubekirdgn/StrapDown.js/stargazers/)
-```
+
 
 ### GitHub Stargazers over time
 [![Stargazers over time](https://starchart.cc/ebubekirdgn/badges.svg)](https://starchart.cc/Naereen/badges)
