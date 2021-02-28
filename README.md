@@ -12,13 +12,12 @@ Here's a list of things I currently keep myself busy with:
   <i>Let's connect and chat! Open to anything under the sun.</i>
 
   <p align="center">
-[![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&style=plastic)]()  
-<br>
-[![Twitter Follow](https://img.shields.io/twitter/follow/ebubekirdgnn.svg?style=social)](https://twitter.com/ebubekirdgnn)  
-
     <a href="https://www.linkedin.com/in/ebubekirdgn/" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
     <a href="mailto:ebubekir.dogan@bil.omu.edu.tr" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
     <a href="https://ebubekirdgnn.blogspot.com/" alt="My site"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a>
+    [![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&style=plastic)]()  
+    <br>
+    [![Twitter Follow](https://img.shields.io/twitter/follow/ebubekirdgnn.svg?style=social)](https://twitter.com/ebubekirdgnn)  
   </p>
 </p>
 
