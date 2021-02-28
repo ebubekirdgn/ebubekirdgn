@@ -8,15 +8,7 @@ Here's a list of things I currently keep myself busy with:
 -  Information Technologies
 -  Photo Shooting Techniques
 <hr>
-<p align="center">
-  <i>Let's connect and chat! Open to anything under the sun.</i>
 
-  <p align="center">
-    <a href="https://www.linkedin.com/in/ebubekirdgn/" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
-    <a href="mailto:ebubekir.dogan@bil.omu.edu.tr" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
-    <a href="https://ebubekirdgnn.blogspot.com/" alt="My site"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a>
-  </p>
-</p>
 
 ### GitHub Profile
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ebubekirdgn&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
@@ -24,8 +16,17 @@ Here's a list of things I currently keep myself busy with:
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=ebubekirdgn&theme=blue-green)
  
 
-## Social Media
-[![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&style=plastic)]()  
-<br>
-[![Twitter Follow](https://img.shields.io/twitter/follow/ebubekirdgnn.svg?style=social)](https://twitter.com/ebubekirdgnn)  
+## Let's Contact
 
+<p align="center">
+  <i>Let's connect and chat! Open to anything under the sun.</i>
+
+  <p align="center">
+    <a href="https://www.linkedin.com/in/ebubekirdgn/" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
+    <a href="mailto:ebubekir.dogan@bil.omu.edu.tr" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
+    <a href="https://ebubekirdgnn.blogspot.com/" alt="My site"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a>
+    <a href="https://twitter.com/ebubekirdgnn"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
+  
+   <p>
+  </p>
+</p>
