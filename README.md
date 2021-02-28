@@ -7,5 +7,6 @@
  
 
 ## Social Media
+[![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&style=plastic)]()  
 <br>
 [![Twitter Follow](https://img.shields.io/twitter/follow/ebubekirdgnn.svg?style=social)](https://twitter.com/ebubekirdgnn)  
