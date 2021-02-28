@@ -18,7 +18,7 @@
 ```
 
 ### GitHub watchers
-[![GitHub watchers](https://img.shields.io/github/watchers/Naereen/StrapDown.js.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/watchers/)
+[![GitHub watchers](https://img.shields.io/github/watchers/ebubekirdgn/StrapDown.js.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/ebubekirdgn/StrapDown.js/watchers/)
 ```markdown
 [![GitHub watchers](https://img.shields.io/github/watchers/Naereen/StrapDown.js.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/watchers/)
 ```
