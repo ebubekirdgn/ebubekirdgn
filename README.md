@@ -6,10 +6,5 @@
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=ebubekirdgn&theme=blue-green)
  
 ## Social Buttons
-[![GitHub stars](https://img.shields.io/github/stars/badges/shields.svg?style=social&label=Stars&style=plastic)]()
-[![GitHub watchers](https://img.shields.io/github/watchers/badges/shields.svg?style=social&label=Watch&style=plastic)]()
-[![GitHub forks](https://img.shields.io/github/forks/badges/shields.svg?style=social&label=Fork&style=plastic)]()
-[![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&style=plastic)]()  
 <br>
-
 [![Twitter Follow](https://img.shields.io/twitter/follow/ebubekirdgnn.svg?style=social)](https://twitter.com/ebubekirdgnn)   
