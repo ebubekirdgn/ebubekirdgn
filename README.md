@@ -28,6 +28,10 @@ Here's a list of things I currently keep myself busy with:
    <p>
   </p>
 </p>
-   [![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&style=plastic)]()  
-   <br>
-   [![Twitter Follow](https://img.shields.io/twitter/follow/ebubekirdgnn.svg?style=social)](https://twitter.com/ebubekirdgnn)  
+ 
+ <p>
+<a href="https://twitter.com/USER"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
+<a href="https://medium.com/USER"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> 
+<a href="https://dev.to/USER"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a>
+<a href="https://YouTube.com/USER"><img src="https://img.shields.io/badge/-YouTube-red?&style=for-the-badge&logo=youtube&logoColor=white" height=25></a>
+</p>
