@@ -28,9 +28,9 @@
 ```
 
 ### GitHub followers
-[![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Naereen?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/ebubekirdgn.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/ebubekirdgn?tab=followers)
 ```markdown
-[![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Naereen?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/ebubekirdgn.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/ebubekirdgn?tab=followers)
 ```
 
 ### GitHub contributors
