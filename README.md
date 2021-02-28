@@ -1,5 +1,4 @@
-
-
+### Hi there I am Ebubekir... I am a Computer Engineer / Software Developer 👋
 
 ### GitHub Profile
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ebubekirdgn&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
