@@ -1,5 +1,7 @@
 ### Hi there I am Ebubekir... I am a Computer Engineer / Software Developer 👋
 
+
+<img src="/coder.gif"/>
 I am happy to learn new things every day and share them.We can change the world and make it better than just a place. ✨
 
 Here's a list of things I currently keep myself busy with:
