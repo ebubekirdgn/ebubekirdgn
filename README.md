@@ -32,3 +32,4 @@ Here's a list of things I currently keep myself busy with:
    <p>
   </p>
 </p>
+<img src="https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white" />
