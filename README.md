@@ -35,8 +35,8 @@ Here's a list of things I currently keep myself busy with:
   </p>
 </p>
 <hr>
+
 ## 🚀 Skills [🔝]
-<br>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
