@@ -23,29 +23,8 @@ Here's a list of things I currently keep myself busy with:
 
 ## Let's Contact
 
-
-## 👨👩 Social [🔝](#welcome-badges-4-readmemd-profile)
-
-Badge | URL
------------- | -------------
-<img src="https://img.shields.io/badge/ebubekirdgn?style=for-the-badge&logo=facebook&logoColor=white" />
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /
-
-
-
-
-
-
-
-
-
-
 <p align="center">
   <i>Let's connect and chat! Open to anything under the sun.</i>
-
   <p align="center">
     <a href="https://www.linkedin.com/in/ebubekirdgn/" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
     <a href="mailto:ebubekir.dogan@bil.omu.edu.tr" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
