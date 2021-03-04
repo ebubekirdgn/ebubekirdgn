@@ -15,6 +15,7 @@ Here's a list of things I currently keep myself busy with:
 ### GitHub Profile
 
 <p align="center">
+ 
    [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ebubekirdgn&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
    
    ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=ebubekirdgn&theme=blue-green)
