@@ -2,7 +2,7 @@
 
 ![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor%20count&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Febubekirdgn.ebubekirdgn%2Freadme)
 
-<img src="/coder.gif"/>
+<img src="/coder.gif" align?"center"/>
 I am happy to learn new things every day and share them.We can change the world and make it better than just a place. ✨
 
 Here's a list of things I currently keep myself busy with:
