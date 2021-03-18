@@ -6,9 +6,9 @@ I am happy to learn new things every day and share them.We can change the world 
 
 Here's a list of things I currently keep myself busy with:
 
--  Advanced python applications
--  Information Technologies
--  Photo Shooting Techniques
+*  Advanced python applications
+*  Information Technologies
+*  Photo Shooting Techniques
 <hr>
 
  
