@@ -21,6 +21,12 @@ Here's a list of things I currently keep myself busy with:
    ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=ebubekirdgn&theme=blue-green)
 </p>
 
+📊 **This week I spent my time on**
+
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=ebubekirdgn&hide_title=true&hide_border=true&langs_count=5)
+
+
+
 ## Let's Contact
 
 <p align="center">
@@ -76,8 +82,3 @@ Here's a list of things I currently keep myself busy with:
   <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
-
-
-
-
-
