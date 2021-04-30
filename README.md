@@ -5,6 +5,8 @@
 
 I am happy to learn new things every day and share them.We can change the world and make it better than just a place. ✨
 
+### GitHub Profile
+
 <!--  -->
 
 <p align="left" >
@@ -16,15 +18,7 @@ I am happy to learn new things every day and share them.We can change the world 
 <hr>
 
  
-### GitHub Profile
-
-<p>
  
-   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ebubekirdgn&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)  
- 
-   ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=ebubekirdgn&theme=blue-green)
-</p>
-
 ## Let's Contact
 
 <p align="center">
