@@ -5,7 +5,7 @@
 
 I am happy to learn new things every day and share them.We can change the world and make it better than just a place. ✨
 
-<p align="center">
+<p align="left">
   <h4> Full Stack | Typescript | Competitive Programming </h4>
    </p>
 
