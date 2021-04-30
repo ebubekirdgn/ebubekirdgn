@@ -6,10 +6,12 @@
 I am happy to learn new things every day and share them.We can change the world and make it better than just a place. ✨
 
 <!--  -->
-<a href="https://github.com/ebubekirdgn/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?      username=bornmay&&show_icons=true&theme=radical"/>
-  </a>
 
+<p align="left" >
+<a href="https://github.com/ebubekirdgn/github-readme-stats"> 
+    <img  src="https://github-readme-stats.vercel.app/api?username=ebubekirdgn&&show_icons=true&theme=radical"/>
+  </a>
+</p>
 
 <hr>
 
