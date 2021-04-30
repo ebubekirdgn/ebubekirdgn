@@ -5,21 +5,10 @@
 
 I am happy to learn new things every day and share them.We can change the world and make it better than just a place. ✨
 
-<p align="left">
-  <h4> Full Stack | Typescript | Competitive Programming </h4>
-   </p>
-
-
-
-
 <!--  -->
-
-<p align="center" >
 <a href="https://github.com/ebubekirdgn/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=bornmay&&show_icons=true&theme=radical"/>
+    <img  src="https://github-readme-stats.vercel.app/api?      username=bornmay&&show_icons=true&theme=radical"/>
   </a>
-
-</p>
 
 
 <hr>
