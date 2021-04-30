@@ -21,12 +21,6 @@ Here's a list of things I currently keep myself busy with:
    ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=ebubekirdgn&theme=blue-green)
 </p>
 
-📊 **This week I spent my time on**
-
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=ebubekirdgn&hide_title=true&hide_border=true&langs_count=4)
-
-
-
 ## Let's Contact
 
 <p align="center">
