@@ -5,11 +5,23 @@
 
 I am happy to learn new things every day and share them.We can change the world and make it better than just a place. ✨
 
-Here's a list of things I currently keep myself busy with:
+<p align="center">
+  <h4> Full Stack | Typescript | Competitive Programming </h4>
+   </p>
 
-*  Advanced python applications
-*  Information Technologies
-*  Photo Shooting Techniques
+
+
+
+<!--  -->
+
+<p align="center" >
+<a href="https://github.com/ebubekirdgn/github-readme-stats"> 
+    <img  src="https://github-readme-stats.vercel.app/api?username=bornmay&&show_icons=true&theme=radical"/>
+  </a>
+
+</p>
+
+
 <hr>
 
  
