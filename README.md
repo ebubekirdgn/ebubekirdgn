@@ -1,4 +1,4 @@
-### <h1>Hi there, I'm <a href="https://hemant.codes">Ebubekir</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+### <h1>Hi there, I'm <a href="https://ebubekirdgnn.blogspot.com/">Ebubekir</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
     I am a Computer Engineer / Software Developer 
 
 ![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor%20count&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Febubekirdgn.ebubekirdgn%2Freadme)
