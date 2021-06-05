@@ -28,7 +28,7 @@ I am happy to learn new things every day and share them.We can change the world 
     <a href="mailto:ebubekir.dogan@bil.omu.edu.tr" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
     <a href="https://ebubekirdgnn.blogspot.com/" alt="My site"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a>
     <a href="https://twitter.com/ebubekirdgnn"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
-   <p>
+   <p> 
   </p>
 </p>
 <hr>
