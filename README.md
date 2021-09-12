@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Azeret+Mono&color=1E62F7&size=28&center=true&width=550&lines=Hi+There!%F0%9F%96%90;I'm+Ebubekir+%F0%9F%91%88;I'm+a+Computer+Engineer+%F0%9F%92%BB%E2%8C%A8%EF%B8%8F+)](https://git.io/typing-svg)
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
-### More About Me:
+### More About Me
 
 - 🔭 &nbsp; I’m currently working on **web development and system administration**
 - 🌱 &nbsp; I’m currently learning Asp.Net Core; 
