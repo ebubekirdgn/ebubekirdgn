@@ -1,27 +1,33 @@
-### <h1>Hi there, I'm <a href="https://ebubekirdgnn.blogspot.com/">Ebubekir</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
-    I am a Computer Engineer / Software Developer 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Azeret+Mono&color=1E62F7&size=28&center=true&width=550&lines=Hi+There!%F0%9F%96%90;I'm+Ebubekir+%F0%9F%91%88;I'm+a+Computer+Engineer+%F0%9F%92%BB%E2%8C%A8%EF%B8%8F+)](https://git.io/typing-svg)
 
-![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor%20count&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Febubekirdgn.ebubekirdgn%2Freadme)
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
-I am happy to learn new things every day and share them.We can change the world and make it better than just a place. ✨
+### More About Me
+- 🔭 &nbsp; I’m currently working on **web development and system administration**
+- 🌱 &nbsp; I’m currently learning Asp.Net Core; 
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/ebubekirdgn?tab=repositories)
+- 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made 👉
+- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/ebubekirdgn/)
+<br>
+ <br><br><br><br><br>
 
-### GitHub Profile
+<hr>
 
 
+ ## 📊 Github stats ![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor%20count&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Febubekirdgn.ebubekirdgn%2Freadme)
+ 
+| <a href="https://github.com/ebubekirdgn/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ebubekirdgn&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ebubekir's github stats" /></a> | <a href="https://github.com/ebubekirdgn/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebubekirdgn&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
-<!--  -->
+<!-- https://github.com/ebubekirdgn/github-readme-activity-graph -->
+<a href="https://github.com/ebubekirdgn/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ebubekirdgn&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
-<p align="left" >
-<a href="https://github.com/ebubekirdgn/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=ebubekirdgn&&show_icons=true&theme=radical"/>
-  </a>
-</p>
+ 
 
 <hr>
  
-
- 
-## Let's Contact
+### Let's Contact
 
 <p align="center">
   <i>Let's connect and chat! Open to anything under the sun.</i>
@@ -35,7 +41,8 @@ I am happy to learn new things every day and share them.We can change the world 
 </p>
 <hr>
 
-## 🚀 Skills [🔝]
+
+### 🚀 Skills [🔝]
 
 <p align="center">
  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
@@ -80,11 +87,10 @@ I am happy to learn new things every day and share them.We can change the world 
 <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">   
 <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">   
-    
-    
-    
-    
-    
-
-
+ 
 </p>
+
+
+<hr>
+
+ ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
