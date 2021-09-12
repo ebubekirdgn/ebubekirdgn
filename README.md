@@ -19,7 +19,8 @@ I am happy to learn new things every day and share them.We can change the world 
 
 <hr>
 
- 
+ ![Most Used Languages](https://raw.githubusercontent.com/ebubekirdgn/github-stats-transparent/output/generated/languages.svg)
+
  
 ## Let's Contact
 
