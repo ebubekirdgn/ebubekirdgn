@@ -6,8 +6,7 @@
 
 I am happy to learn new things every day and share them.We can change the world and make it better than just a place. ✨
 
-<img align="right" alt="GIF" src="https://storyset.com/illustration/development/pana/animate?share=27790" width="360px"/>
-  
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 ### 🧐 More About Me:
 
 - 🔭 &nbsp; I’m currently working on **web development and system administration**
