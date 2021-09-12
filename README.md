@@ -28,7 +28,7 @@
 
 <hr>
  
-## Let's Contact
+### Let's Contact
 
 <p align="center">
   <i>Let's connect and chat! Open to anything under the sun.</i>
@@ -43,7 +43,7 @@
 <hr>
 
 
-## 🚀 Skills [🔝]
+### 🚀 Skills [🔝]
 
 <p align="center">
  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
