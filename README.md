@@ -3,7 +3,7 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 <br>
 ### More About Me
-
+<br>
 - 🔭 &nbsp; I’m currently working on **web development and system administration**
 - 🌱 &nbsp; I’m currently learning Asp.Net Core; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/ebubekirdgn?tab=repositories)
