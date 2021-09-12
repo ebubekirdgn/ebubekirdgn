@@ -1,6 +1,4 @@
-### <h1>Hi there, I'm <a href="https://ebubekirdgnn.blogspot.com/">Ebubekir</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
-    I am a Computer Engineer / Software Developer 
-   
+### 
    
    [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Azeret+Mono&color=1E62F7&size=28&center=true&width=550&lines=Hi+There!%F0%9F%96%90;I'm+Ebubekir+%F0%9F%91%88;I'm+a+Computer+Engineer+%F0%9F%92%BB%E2%8C%A8%EF%B8%8F+)](https://git.io/typing-svg)
 
