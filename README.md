@@ -17,8 +17,7 @@ I am happy to learn new things every day and share them.We can change the world 
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/ebubekirdgn/)
 <br>
 
-
-<hr>
+<br> <br>
 ### GitHub Profile
 
 <!--  -->
