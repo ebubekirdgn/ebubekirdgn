@@ -6,7 +6,7 @@
 <img align="right" alt="GIF" src="https://github.com/ebubekirdgn/ebubekirdgn/blob/main/img/coder.gif" width="360px"/>
 
 ### More About Me
-- 🔭 &nbsp; I’m currently working on **web and mobile development **
+- 🔭 &nbsp; I’m currently working on **web and mobile development**
 - 🌱 &nbsp; I’m currently learning Asp.Net Core; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/ebubekirdgn?tab=repositories)
 - 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made 👉
