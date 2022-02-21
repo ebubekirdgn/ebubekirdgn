@@ -13,7 +13,6 @@
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/ebubekirdgn/)
 <br>
-
 <hr>
 
  ## 📊 Github stats ![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor%20count&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Febubekirdgn.ebubekirdgn%2Freadme)
