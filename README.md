@@ -4,7 +4,6 @@
 
  </center>
 <img align="right" alt="GIF" src="https://github.com/ebubekirdgn/ebubekirdgn/blob/main/img/coder.gif" width="360px"/>
-
 ### More About Me
 - 🔭 &nbsp; I’m currently working on **Web Development**
 - 🌱 &nbsp; I’m currently learning Asp.Net Core; 
