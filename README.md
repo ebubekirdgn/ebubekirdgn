@@ -15,7 +15,8 @@
 <br>
 <hr>
 
- ## 📊 Github stats ![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor%20count&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Febubekirdgn.ebubekirdgn%2Freadme)
+ ## 📊 Github stats ![visitors]
+ (https://img.shields.io/badge/dynamic/json?color=informational&label=visitor%20count&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Febubekirdgn.ebubekirdgn%2Freadme)
  
 | <a href="https://github.com/ebubekirdgn/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ebubekirdgn&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ebubekir's github stats" /></a> | <a href="https://github.com/ebubekirdgn/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebubekirdgn&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
