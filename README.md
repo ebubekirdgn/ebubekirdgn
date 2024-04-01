@@ -11,8 +11,7 @@
 <br>
 <hr>
  
- ## 📊 Github stats <p align="left"> <img src="https://komarev.com/ghpvc/?username=ebubekirdgn&label=Profile%20views&color=0e75b6&style=flat" alt="ebubekirdgn" /> </p>
-
+ ## 📊 Github stats <img src="https://komarev.com/ghpvc/?username=ebubekirdgn&label=Profile%20views&color=0e75b6&style=flat" alt="ebubekirdgn" />
 <hr>
 <table align="center">
   <tbody>
