@@ -119,7 +119,7 @@
 <a href="https://gist.github.com/PrinceGoblinTech"><img src="https://profile-counter.glitch.me/{ebubekirdgn}/count.svg" alt="PrinceGoblinTech :: Visitor's Count" /></a>
 </p>
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
-<hr>
+
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ebubekirdgn" alt="ebubekirdgn" /></a> </p>
