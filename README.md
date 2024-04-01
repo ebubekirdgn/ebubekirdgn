@@ -1,4 +1,4 @@
-<center>
+[[<center>
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Azeret+Mono&color=1E62F7&size=28&center=true&width=550&lines=Hi+There!%F0%9F%96%90;I'm+Ebubekir+%F0%9F%91%88;I'm+a+Computer+Engineer+%F0%9F%92%BB%E2%8C%A8%EF%B8%8F+)](https://git.io/typing-svg)
 
@@ -121,7 +121,4 @@
 <a href="https://gist.github.com/PrinceGoblinTech"><img src="https://profile-counter.glitch.me/{ebubekirdgn}/count.svg" alt="PrinceGoblinTech :: Visitor's Count" /></a>
 </p>
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
-
 <hr>
-![snake gif](https://github.com/ebubekirdgn/ebubekirdgn/blob/output/github-contribution-grid-snake.gif)
-
