@@ -87,10 +87,7 @@
         <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery">
         <br>jQuery
     </td>
-</tr>
-
-<tr>
-    <td align="center" width="96">
+     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB">
         <br>MongoDB
     </td>
@@ -102,9 +99,6 @@
         <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass">
         <br>Sass
     </td>
-  
-  
-  
 </tr>
 </tbody>
     </table>
