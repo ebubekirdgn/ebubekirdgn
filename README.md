@@ -123,4 +123,5 @@
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
 
 <hr>
+![snake gif](https://github.com/ebubekirdgn/ebubekirdgn/blob/output/github-contribution-grid-snake.gif)
 
