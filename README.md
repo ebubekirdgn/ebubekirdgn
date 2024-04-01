@@ -150,11 +150,11 @@
 <p align="center">
 
 <!--
-<a href="https://github.com/PrinceGoblinTech?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=Aleksey-Voko&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="@Goblin's github-readme-stats"/></a>
+<a href="https://github.com/ebubekirdgn?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=Aleksey-Voko&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="@Goblin's github-readme-stats"/></a>
 -->
 
-<a href="https://github.com/PrinceGoblinTech?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=Aleksey-Voko&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Goblin's github-readme-stats"/></a>
-<a href="https://github.com/PrinceGoblinTech?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=PrinceGoblinTech&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Goblin's github-readme-streak-stats"/></a>
+<a href="https://github.com/ebubekirdgn?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=Aleksey-Voko&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Goblin's github-readme-stats"/></a>
+<a href="https://github.com/ebubekirdgn?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=PrinceGoblinTech&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Goblin's github-readme-streak-stats"/></a>
 
 </p>
 
@@ -173,7 +173,7 @@
 
 <p align="center">
 <a href="https://wakatime.com/@Goblin8888"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Goblin&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" alt="@Goblin's wakatime stats"/></a>
-<a href="https://github.com/PrinceGoblinTech?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=Aleksey-Voko&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@Goblin's trophy stats"/></a>
+<a href="https://github.com/ebubekirdgn?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=Aleksey-Voko&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@Goblin's trophy stats"/></a>
 </p>
 
 
@@ -184,8 +184,8 @@
 
 
 <p align="center">
-<a href="https://gist.github.com/PrinceGoblinTech"><img src="https://profile-counter.glitch.me/{Aleksey-Voko}/count.svg" alt="PrinceGoblinTech :: Visitor's Count" /></a>
+<a href="https://gist.github.com/ebubekirdgn"><img src="https://profile-counter.glitch.me/{Aleksey-Voko}/count.svg" alt="PrinceGoblinTech :: Visitor's Count" /></a>
 </p>
 
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
+<img src="https://github.com/ebubekirdgn/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
 
