@@ -141,4 +141,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ebubekirdgn&show_icons=true&locale=en" alt="ebubekirdgn" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ebubekirdgn&" alt="ebubekirdgn" /></p>
-<a href="https://gist.github.com/PrinceGoblinTech"><img src="https://profile-counter.glitch.me/{ebubekirdgn}/count.svg" alt="PrinceGoblinTech :: Visitor's Count" /></a>
