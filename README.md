@@ -9,7 +9,7 @@
 - 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made 👉 
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help; 
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/ebubekirdgn/) 
-<br>  
+<br>   
 <hr>    
     
  ## 📊 Github stats <img src="https://komarev.com/ghpvc/?username=ebubekirdgn&label=Profile%20views&color=0e75b6&style=flat" alt="ebubekirdgn" />
