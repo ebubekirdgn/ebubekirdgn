@@ -8,7 +8,7 @@
 - 👨🏻‍💻 &nbsp; My Linkedin Profile  [Linkedin](https://www.linkedin.com/in/ebubekirdgn/)  
  
 <br>       
-<hr>         
+<hr>          
    
 ## 📊 Github stats <img src="https://komarev.com/ghpvc/?username=ebubekirdgn&label=Profile%20views&color=0e75b6&style=flat" alt="ebubekirdgn" />
 <hr>
