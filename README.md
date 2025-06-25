@@ -1,70 +1,105 @@
-<h1 align="center">Hi There! 👋 I'm Ebubekir</h1>
-<h3 align="center">💻 Computer Engineer | 📊 Data Enthusiast | ⚙️ Code Artisan</h3>
+<!-- Animated Header with Gradient -->
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Azeret+Mono&size=28&duration=4000&color=1E62F7&center=true&width=550&lines=Hi+There!%F0%9F%96%90;I'm+Ebubekir+%F0%9F%91%88;Computer+Engineer+%F0%9F%92%BB%E2%8C%A8%EF%B8%8F" alt="Typing SVG" />
+  </a>
+</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Azeret+Mono&color=1E62F7&size=24&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+profile!;I'm+a+Computer+Engineer+👨‍💻;Love+to+build+and+learn+📚" alt="Typing SVG">
-</p>
+<!-- Profile Section with Glowing Border -->
+<div align="center">
+  <img 
+    src="https://github.com/ebubekirdgn/ebubekirdgn/blob/main/img/coder.gif" 
+    alt="Coder GIF" 
+    width="360px"
+    style="border-radius: 20px; box-shadow: 0 0 15px #1e62f7;"
+  />
+</div>
 
----
+<!-- Modern Badges -->
+<div align="center">
+  <a href="https://www.linkedin.com/in/ebubekirdgn/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/ebubekirdgn?tab=repositories">
+    <img src="https://img.shields.io/badge/Projects-100000?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/>
+  </a>
+  <a href="https://komarev.com/ghpvc/?username=ebubekirdgn">
+    <img src="https://komarev.com/ghpvc/?username=ebubekirdgn&label=Profile+Views&color=1e62f7&style=for-the-badge" alt="Profile Views"/>
+  </a>
+</div>
 
-<img align="right" alt="Coding" src="https://github.com/ebubekirdgn/ebubekirdgn/blob/main/img/coder.gif" width="350"/>
+<br>
 
+<!-- About Me Cards -->
 ## 🚀 About Me
-- 🔭 I’m actively working on **personal and open-source projects**
-- 🌱 Currently learning **React, Docker, and Machine Learning**
-- 💬 Ask me about **Python, C, embedded systems, or backend development**
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ebubekirdgn/)
-- 💻 Most of my projects are available here 👉 [GitHub Repos](https://github.com/ebubekirdgn?tab=repositories)
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <h3>💻 What I Do</h3>
+      <ul>
+        <li>💻 Passionate Computer Engineer</li>
+        <li>🧠 Problem solver & tech enthusiast</li>
+        <li>🚀 Building innovative software solutions</li>
+        <li>📚 Lifelong learner</li>
+      </ul>
+    </td>
+    <td width="40%" valign="top">
+      <h3>📬 Let's Connect</h3>
+      <p>
+        <a href="https://www.linkedin.com/in/ebubekirdgn/">
+          <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat" alt="LinkedIn"/>
+        </a>
+      </p>
+      <p>
+        <a href="https://github.com/ebubekirdgn?tab=repositories">
+          <img src="https://img.shields.io/badge/-Projects-181717?logo=github&logoColor=white&style=flat" alt="Projects"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
----
+<hr>
 
-## 📊 GitHub Stats & Activity
+<!-- GitHub Stats Section with Cards -->
+## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ebubekirdgn&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=ebubekirdgn&show_icons=true&theme=github_dark&hide_border=true&count_private=true" width="48%" />
-</p>
+<div align="center">
+  
+  <!-- Stats Card -->
+  <a href="https://github.com/ebubekirdgn">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ebubekirdgn&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=1e62f7&icon_color=1e62f7" alt="Stats"/>
+  </a>
+  
+  <!-- Streak Card -->
+  <a href="https://github.com/ebubekirdgn">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ebubekirdgn&theme=react&hide_border=true&background=0D1117&stroke=1e62f7&ring=1e62f7&fire=1e62f7&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=1e62f7" alt="Streak"/>
+  </a>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebubekirdgn&layout=compact&theme=github_dark&hide_border=true" width="48%" />
-</p>
+<div align="center">
+  
+  <!-- Languages Card -->
+  <a href="https://github.com/ebubekirdgn">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebubekirdgn&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=1e62f7" alt="Top Languages"/>
+  </a>
+</div>
 
----
+<!-- Activity Graph -->
+<div align="center">
+  <a href="https://wakatime.com/@Goblin8888">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ebubekirdgn&theme=react-dark&hide_border=true&area=true&custom_title=Development+Activity" width="95%" alt="Activity Graph">
+  </a>
+</div>
 
-## 🏆 Trophies
+<!-- Trophy Section -->
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ebubekirdgn&theme=onestar&no-frame=true&row=2&column=4" alt="Trophies" />
+  </a>
+</div>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ebubekirdgn&theme=discord&no-frame=true&margin-w=15&column=7" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ebubekirdgn&theme=react-dark&hide_border=true&area=true" width="95%" />
-</p>
-
----
-
-## 🐍 Contribution Snake Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
-
-## 📎 Badges
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ebubekirdgn&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img alt="Followers" src="https://img.shields.io/github/followers/ebubekirdgn?label=Follow&style=social"/>
-  <img alt="Stars" src="https://img.shields.io/github/stars/ebubekirdgn?style=social"/>
-</p>
-
----
-
-> ✨ **Thanks for visiting!** ✨  
-> 📬 Feel free to connect on [LinkedIn](https://www.linkedin.com/in/ebubekirdgn/) or check out my projects [here](https://github.com/ebubekirdgn?tab=repositories).
-
+<!-- Snake Animation -->
+<div align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%">
+</div>
