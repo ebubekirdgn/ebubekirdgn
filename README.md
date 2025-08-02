@@ -4,7 +4,7 @@
 <img align="right" alt="GIF" src="https://github.com/ebubekirdgn/ebubekirdgn/blob/main/img/coder.gif" width="360px"/>             
                  
 ### More About Me                        
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/ebubekirdgn?tab=repositories)        
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/ebubekirdgn?tab=repositories)         
 - 👨🏻‍💻 &nbsp; My Linkedin Profile  [Linkedin](https://www.linkedin.com/in/ebubekirdgn/)                 
            
 <br>                 
