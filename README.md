@@ -4,7 +4,7 @@
 
 ## 👋 Hakkımda
 - 👨🏻‍💻 Bilgisayar Mühendisi / MSc Yazılım Mühendisi — İstanbul
-- 🔭 İlgi alanları: Backend (C#, ASP.NET), Python (ML / CV), JavaScript/TypeScript (React), Java, C++
+- 🔭 İlgi alanları: Backend (C#, ASP.NET), Python (ML / CV), JavaScript/TypeScript (React), Java, C++ 
 - ⚡ Aktif olarak yeni projeler geliştiriyor ve mevcut projeleri güncelliyorum (2026)
 - 🔗 [Tüm repolarım](https://github.com/ebubekirdgn?tab=repositories) • [LinkedIn](https://www.linkedin.com/in/ebubekirdgn/)
 
