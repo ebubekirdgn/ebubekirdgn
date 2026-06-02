@@ -9,7 +9,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=ebubekirdgn&color=378ADD&style=flat-square&label=Profile+Views)
 [![GitHub followers](https://img.shields.io/github/followers/ebubekirdgn?style=flat-square&color=378ADD)](https://github.com/ebubekirdgn)
 ![GitHub User's stars](https://img.shields.io/github/stars/ebubekirdgn?style=flat-square&color=1D9E75)
-
+ 
 </div>
 
 ---
